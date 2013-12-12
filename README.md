@@ -1,0 +1,4 @@
+lightcoin
+=========
+
+Cryptocurrency coin
